@@ -9,9 +9,16 @@ Hello! My name is Philip Schmidt and I am from St. Paul, MN. In my free time I l
 I create applications mainly for Oracle Cloud Infrastructure and stepping into GCP.  My two favorite techs are Golang and Docker, but I continually quest to learn new technologies, methodologies, and workflows.
 
 ## Experience
-Andersen Windows and Doors
-Cyber Security Analyst Intern (May-Aug 2016)
 
 Oracle
-Technical Solutions Engineer
-(July 2017 - Present)
+ 
+ - Technical Solutions Engineer (July 2017 - Present)
+
+Andersen Windows and Doors 
+ 
+ - Cyber Security Analyst Intern (May - Aug 2016)
+
+ID Tech Camps
+ 
+ - Programming Instructor (June - Aug 2014)
+
